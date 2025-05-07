@@ -1,4 +1,6 @@
-This is a Two Server Modle for more queries refer chatGPT link https://chatgpt.com/canvas/shared/681ae00fc63881918ac5a7f7d71c0226
+This is a Two Server Modle 
+
+for more queries refer chatGPT link https://chatgpt.com/canvas/shared/681ae00fc63881918ac5a7f7d71c0226
 
 Sample OrtB response https://jsoneditoronline.org/#left=cloud.c1bf970fcdba47f4982c5cc640e68a99
 
