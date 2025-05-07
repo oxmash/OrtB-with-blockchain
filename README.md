@@ -1,4 +1,4 @@
-This is a Two Server Modle 
+This is a Two Server Model
 
 for more queries refer chatGPT link https://chatgpt.com/share/681ae10e-bcdc-800d-be95-cffa7677cff4
 
