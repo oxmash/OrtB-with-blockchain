@@ -1,8 +1,12 @@
 This is a Two Server Model
 
+Google Docs https://docs.google.com/document/d/172WiTigdmnZbTdkynwmWQDCu3msM242nHGPtm1FMk4I/edit?usp=sharing
+
 for more queries refer chatGPT link https://chatgpt.com/share/681ae10e-bcdc-800d-be95-cffa7677cff4
 
 Sample OrtB response https://jsoneditoronline.org/#left=cloud.c1bf970fcdba47f4982c5cc640e68a99
+
+
 
 
 {
